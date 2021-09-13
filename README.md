@@ -5,7 +5,7 @@ I am deeply passioned about creating maintable code which is readable, even afte
 
 **🌱 I’m currently learning** Kotlin. Since I heared of Kotlin at devoxx BE I slowly developed an intrest into it and am now free to start learning a new tool/language again. Kotlin it is!
 
-*I have a second GitHub account which contains some old school projects & assignments: (@MHHollink)[https://github.com/MHHollink]
+*I have a second GitHub account which contains some old school projects & assignments: [@MHHollink](https://github.com/MHHollink)*
 
 <!---
 mhollink/mhollink is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
